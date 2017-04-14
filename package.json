@@ -1,0 +1,7 @@
+{
+    "name": "file_directory",
+    "dependencies": {
+        "express": "~4.0.0",
+        "qr-image": "3.2.0"
+    }
+}
