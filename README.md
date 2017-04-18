@@ -7,6 +7,8 @@
 ![alt tag](https://github.com/MasonLiuChn/DirectoryDownload/raw/master/pic/2.png)
 
 # 说明
+1、将文件放到file文件夹下
+
 1、使用 nodejs 、express
 
 2、执行 npm install
