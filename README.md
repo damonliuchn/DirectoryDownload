@@ -2,9 +2,9 @@
 
 文件目录提供下载服务
 
-<img src="https://github.com/MasonLiuChn/DirectoryDownload/raw/master/pic/1.png"  width="320"/>
+![alt tag](https://github.com/MasonLiuChn/DirectoryDownload/raw/master/pic/1.png)
 
-<img src="https://github.com/MasonLiuChn/DirectoryDownload/raw/master/pic/2.png"  width="320"/>
+![alt tag](https://github.com/MasonLiuChn/DirectoryDownload/raw/master/pic/2.png)
 
 # 说明
 1、使用 nodejs 、express
